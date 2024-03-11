@@ -1,0 +1,48 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jose",
+      "apellido": "M",
+      "materia": [
+        {
+          "nombre": "NodeJs"
+        },
+        {
+          "nombre": "Angular v17"
+        }
+      ],
+      "id": "7e4d"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "030f"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "29ad"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs",
+      "duracion": 7,
+      "id": "17a8"
+    },
+    {
+      "nombre": "Angular",
+      "duracion": 10,
+      "id": "85bc"
+    },
+    {
+      "nombre": "React",
+      "duracion": 8,
+      "id": "127b"
+    }
+  ]
+}
